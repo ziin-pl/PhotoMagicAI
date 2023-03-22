@@ -6,4 +6,4 @@ http://photomagicai.com
 ![Screen shot](shot1.png)
 
 # System
-Windows 7, 10, 11
+Windows 10, 11
